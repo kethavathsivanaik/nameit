@@ -1,6 +1,6 @@
-# NameIt - Get Name Suggestions for your project
+# Getting Started with Create React App
 
-This project will give you the name suggestions!
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
